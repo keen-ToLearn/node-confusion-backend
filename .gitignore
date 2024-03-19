@@ -1,0 +1,4 @@
+/confusionServer/node_modules
+/node-express/node_modules
+/node-mongo/node_modules
+/node-mongoose/node_modules
